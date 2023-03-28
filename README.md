@@ -1,6 +1,6 @@
 #0x11. C - printf
 
-This is a printf team project done by Sinah and Mpho
+This is a printf team project done by Sinah
 
 # Tasks
 
